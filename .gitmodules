@@ -1,9 +1,9 @@
 [submodule "OneWay_ANOVA"]
 	path = OneWay_ANOVA
-	url = https://github.com/EducationShinyAppTeam/OneWay_ANOVA
+	url = ../OneWay_ANOVA
 [submodule "ANOVA_Models"]
 	path = ANOVA_Models
-	url = https://github.com/EducationShinyAppTeam/ANOVA_Models
+	url = ../ANOVA_Models
 [submodule "ANCOVA"]
 	path = ANCOVA
-	url = https://github.com/EducationShinyAppTeam/ANCOVA
+	url = ../ANCOVA
