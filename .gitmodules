@@ -7,3 +7,6 @@
 [submodule "ANCOVA"]
 	path = ANCOVA
 	url = ../ANCOVA
+[submodule "Assumptions_of_ANOVA"]
+	path = Assumptions_of_ANOVA
+	url = ../Assumptions_of_ANOVA

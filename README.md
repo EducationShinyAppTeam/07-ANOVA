@@ -3,6 +3,7 @@
 ## Chapter 7: ANOVA
 - [ANCOVA](https://github.com/EducationShinyAppTeam/ANCOVA)
 - [ANOVA Models](https://github.com/EducationShinyAppTeam/ANOVA_Models)
+- [Assumptions of ANOVA](https://github.com/EducationShinyAppTeam/Assumptions_of_ANOVA)
 - [One-Way ANOVA](https://github.com/EducationShinyAppTeam/OneWay_ANOVA)
 
 ### Downloading
