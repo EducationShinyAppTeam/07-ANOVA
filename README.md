@@ -4,6 +4,7 @@
 - [ANCOVA](https://github.com/EducationShinyAppTeam/ANCOVA)
 - [ANOVA Models](https://github.com/EducationShinyAppTeam/ANOVA_Models)
 - [Assumptions of ANOVA](https://github.com/EducationShinyAppTeam/Assumptions_of_ANOVA)
+- [Hasse Diagrams](https://github.com/EducationShinyAppTeam/Hasse_Diagrams)
 - [One-Way ANOVA](https://github.com/EducationShinyAppTeam/OneWay_ANOVA)
 
 ### Downloading

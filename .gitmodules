@@ -10,3 +10,6 @@
 [submodule "Assumptions_of_ANOVA"]
 	path = Assumptions_of_ANOVA
 	url = ../Assumptions_of_ANOVA
+[submodule "Hasse_Diagrams"]
+	path = Hasse_Diagrams
+	url = ../Hasse_Diagrams
